@@ -1,4 +1,4 @@
-package com.redwall;
+package com.redwall.bootstrap;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.buffer.ByteBuf;
